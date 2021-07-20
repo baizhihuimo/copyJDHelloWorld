@@ -19,7 +19,7 @@
 
 
 
-name: ziye-sync
+name: JDHelloWorld
 on:
   schedule:
     - cron: '1 */3 * * *'
